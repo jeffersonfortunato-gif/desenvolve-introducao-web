@@ -1,3 +1,4 @@
-Projeto Desenvolve - Itabira
-Introdução à Programação Web
-PDITA 344
+# Projeto Desenvolve - Itabira
+
+**Disciplina:** Introdução à Programação Web  
+**Matrícula:** PDITA 344
